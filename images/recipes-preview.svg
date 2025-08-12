@@ -1,0 +1,41 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo -->
+  <rect width="800" height="400" fill="#fff" rx="10" ry="10"/>
+  
+  <!-- Grade de receitas -->
+  <!-- Receita 1 -->
+  <rect x="50" y="50" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="150" cy="90" r="30" fill="#ff9e7d"/>
+  <rect x="70" y="130" width="160" height="10" fill="#ddd"/>
+  <rect x="70" y="150" width="120" height="10" fill="#ddd"/>
+  
+  <!-- Receita 2 -->
+  <rect x="300" y="50" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="400" cy="90" r="30" fill="#4CAF50"/>
+  <rect x="320" y="130" width="160" height="10" fill="#ddd"/>
+  <rect x="320" y="150" width="120" height="10" fill="#ddd"/>
+  
+  <!-- Receita 3 -->
+  <rect x="550" y="50" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="650" cy="90" r="30" fill="#ff6b6b"/>
+  <rect x="570" y="130" width="160" height="10" fill="#ddd"/>
+  <rect x="570" y="150" width="120" height="10" fill="#ddd"/>
+  
+  <!-- Receita 4 -->
+  <rect x="50" y="220" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="150" cy="260" r="30" fill="#ffc107"/>
+  <rect x="70" y="300" width="160" height="10" fill="#ddd"/>
+  <rect x="70" y="320" width="120" height="10" fill="#ddd"/>
+  
+  <!-- Receita 5 -->
+  <rect x="300" y="220" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="400" cy="260" r="30" fill="#9c27b0"/>
+  <rect x="320" y="300" width="160" height="10" fill="#ddd"/>
+  <rect x="320" y="320" width="120" height="10" fill="#ddd"/>
+  
+  <!-- Receita 6 -->
+  <rect x="550" y="220" width="200" height="130" fill="#ffeed8" rx="10" ry="10"/>
+  <circle cx="650" cy="260" r="30" fill="#2196f3"/>
+  <rect x="570" y="300" width="160" height="10" fill="#ddd"/>
+  <rect x="570" y="320" width="120" height="10" fill="#ddd"/>
+</svg>

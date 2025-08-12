@@ -1,0 +1,24 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo do eBook -->
+  <rect width="800" height="500" fill="#ffeed8" rx="10" ry="10"/>
+  
+  <!-- Capa do eBook -->
+  <rect x="100" y="50" width="600" height="400" fill="#ff9e7d" rx="5" ry="5"/>
+  
+  <!-- Título do eBook -->
+  <text x="400" y="150" font-family="Arial" font-size="40" font-weight="bold" fill="white" text-anchor="middle">Comidinhas do Bebê</text>
+  
+  <!-- Ícone de comida -->
+  <circle cx="400" y="250" r="80" fill="#fff"/>
+  <path d="M380 220 Q400 180 420 220 L420 280 Q400 300 380 280 Z" fill="#4CAF50"/>
+  <circle cx="400" y="210" r="10" fill="#ff6b6b"/>
+  
+  <!-- Subtítulo -->
+  <text x="400" y="350" font-family="Arial" font-size="20" fill="white" text-anchor="middle">+100 receitas para o seu bebê</text>
+  
+  <!-- Decorações -->
+  <circle cx="150" y="100" r="20" fill="#ff6b6b" opacity="0.7"/>
+  <circle cx="650" y="100" r="20" fill="#ff6b6b" opacity="0.7"/>
+  <circle cx="150" y="400" r="20" fill="#ff6b6b" opacity="0.7"/>
+  <circle cx="650" y="400" r="20" fill="#ff6b6b" opacity="0.7"/>
+</svg>
