@@ -207,7 +207,7 @@ function setupUtmifyEvents() {
             if (window.utmify && window.utmify.conversion) {
                 window.utmify.conversion({
                     event: 'purchase',
-                    value: 12.97,
+                    value: 19.97,
                         currency: 'BRL',
                     product_name: 'Comidinhas do Bebê - eBook',
                     button_text: this.textContent.trim()
@@ -221,7 +221,7 @@ function setupUtmifyEvents() {
                     type: 'UTMIFY_CONVERSION',
                     data: {
                         event: 'purchase',
-                        value: 12.97,
+                        value: 19.97,
                         currency: 'BRL',
                         product_name: 'Comidinhas do Bebê - eBook',
                         button_text: this.textContent.trim(),
@@ -243,7 +243,7 @@ function setupUtmifyEvents() {
                     body: JSON.stringify({
                         pixel_id: '6893ea38a4c56ba5bfdd9286',
                         event: 'purchase',
-                        value: 12.97,
+                        value: 19.97,
                         currency: 'BRL',
                         product_name: 'Comidinhas do Bebê - eBook',
                         url: window.location.href,
@@ -285,7 +285,7 @@ function setupFacebookPixelEvents() {
             fbq('track', 'InitiateCheckout', {
                 content_name: 'Comidinhas do Bebê - eBook',
                 content_category: 'eBook',
-                value: 12.97,
+                value: 19.97,
                 currency: 'BRL'
             });
             
